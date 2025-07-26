@@ -17,8 +17,7 @@ Built using HTML, CSS, and JavaScript.
 4. Click the checkbox to mark a task as done.
 
 ## Live Demo
-👉 [Click here to view]([https://your-username.github.io/quickdo-todo-app/](https://github.com/Face248444/quickdo-todo-app.git
-))
+👉 [Click here to view](https://face248444.github.io/quickdo-todo-app/)
 
 ## Author
 
