@@ -18,7 +18,7 @@ Built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 👉 [Click here to view]([https://your-username.github.io/quickdo-todo-app/](https://github.com/Face248444/quickdo-todo-app.git
-)
+))
 
 ## Author
 
