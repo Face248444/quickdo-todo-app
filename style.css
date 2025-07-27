@@ -85,9 +85,13 @@ h2 {
 
 li {
   display: flex;
+  flex-wrap: wrap;
   list-style-type: none;
   margin-top: 20px;
   cursor: pointer;
+  border-bottom: 1px solid var(--text);
+  padding: 10px;
+
 }
 
 #check-box {
@@ -96,7 +100,7 @@ li {
 }
 
 #trash {
-  margin-left: 10px;
+  margin-left: 40px;
   transition: 0.5s;
 }
 
